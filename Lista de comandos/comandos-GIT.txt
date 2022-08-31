@@ -1,0 +1,15 @@
+com. git add * pega tudo que está no diretório e adiciona para a área ‘staged’
+
+com. git add adiciona os arquivos para a área staged, que é a área onde estão preparados para commitar, ou seja, serem jogados no projetão
+
+com. git commit é como se fosse a foto da galera no palco e depois retorna para a área de ‘não modificado’ (unmodified), e essa ‘foto do código’ é comparada sempre que há uma alteração nova no código
+
+com. git push empurra o código
+
+com. git pull puxa o código pra comparar e corrigir conflitos
+
+com. origin é o termo que usa para não precisar ficar colocando o link do github toda vez que fizer alguma alteração pelo git
+
+com. git init pega uma criada e torna ela um repositório git. precisa fazer isso para poder iniciar o versionamento do projeto.
+
+com. git remote add origin <link> para puxar um repositório criado no github para uma pasta/projeto/repositório criado no meu pc
